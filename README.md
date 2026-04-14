@@ -8,6 +8,10 @@ This application helps users manage daily expenses, track spending, and visualiz
 ## 📸 Preview
 
 
+https://github.com/user-attachments/assets/9ce66fd7-091a-4528-ad26-197fbf225bc9
+
+
+
 
 ---
 
